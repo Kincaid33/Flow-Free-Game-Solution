@@ -1,3 +1,8 @@
+/**
+ * This project has been adapted from
+ * https://github.com/mzucker/flow_solver
+ */
+
 #include "utils.h"
 #include "node.h"
 #include "options.h"
